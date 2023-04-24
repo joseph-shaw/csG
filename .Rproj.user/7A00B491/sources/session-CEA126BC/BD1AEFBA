@@ -3,7 +3,7 @@
     "path": "~/R/csG/DESCRIPTION",
     "project_path": "DESCRIPTION",
     "type": "dcf",
-    "hash": "0",
+    "hash": "3801054873",
     "contents": "",
     "dirty": false,
     "created": 1681893657764.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,0",
+        "cursorPosition": "5,23",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1681893752,
+    "lastKnownWriteTime": 1682340330,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1681893752045,
+    "last_content_update": 1682340330402,
     "read_only": false,
     "read_only_alternatives": []
 }

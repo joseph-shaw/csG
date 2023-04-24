@@ -1,0 +1,2 @@
+devtools::install_github("joseph-shaw/csG")
+library("csG")
