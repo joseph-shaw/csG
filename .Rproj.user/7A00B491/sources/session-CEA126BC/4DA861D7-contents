@@ -6,3 +6,6 @@ library("csG")
 
 data <- parse_round("C:/Users/shaw_/Documents/Consultancy/Guild/JSON/angels-vs-guild.json", 15)
 plot_grenades(data, smoke = TRUE, flash = TRUE, incendiary = TRUE, molotov = TRUE, he = TRUE, map = "de_mirage")
+
+
+csG::

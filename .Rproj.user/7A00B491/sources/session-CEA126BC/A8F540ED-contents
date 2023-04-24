@@ -18,6 +18,8 @@
 #'
 #' @import ggplot2
 #' @import dplyr
+#'
+#' @export
 
 
 #data <- parse_round("C:/Users/shaw_/Documents/Consultancy/Guild/JSON/angels-vs-guild.json", 15)$grenades

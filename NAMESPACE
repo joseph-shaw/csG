@@ -3,6 +3,7 @@
 export(map_plot)
 export(parse_match)
 export(parse_round)
+export(plot_grenades)
 export(position_transform)
 import(data.table)
 import(dplyr)
