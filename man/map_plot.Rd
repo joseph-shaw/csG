@@ -4,12 +4,14 @@
 \alias{map_plot}
 \title{Plot Map on ggplot with Background Image}
 \usage{
-map_plot(ggplot, map_name)
+map_plot(ggplot, map_name, map_type = "dark")
 }
 \arguments{
 \item{ggplot}{A ggplot object to which the map will be added as a background image.}
 
 \item{map_name}{A character string representing the name of the map image file (without the file extension) located in the "img/" directory.}
+
+\item{map_type}{A character string representing the type of map.}
 }
 \value{
 A ggplot object with the map added as a background image.
