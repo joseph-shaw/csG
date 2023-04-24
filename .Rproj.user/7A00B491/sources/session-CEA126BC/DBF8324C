@@ -1,0 +1,27 @@
+{
+    "id": "DBF8324C",
+    "path": "~/R/csG/R/position_transform.R",
+    "project_path": "R/position_transform.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1681310222897.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled4",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "44,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681320336,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681320336194,
+    "read_only": false,
+    "read_only_alternatives": []
+}
