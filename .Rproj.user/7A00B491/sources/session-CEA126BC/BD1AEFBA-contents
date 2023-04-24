@@ -3,7 +3,6 @@ Type: Package
 Title: Package for analysing and visualising JSON files extracted from CSGO demos
 Version: 0.1.0
 Author: Joseph Shaw
-Maintainer: Joseph Shaw
 Description: Takes json files parsed by awpy. Extracts and cleans data. Produces visualisations.
 License: What license is it under?
 Encoding: UTF-8
